@@ -1,0 +1,17 @@
+{
+  "name": "bus-component",
+  "description": "Application-wide event bus",
+  "version": "0.0.1",
+  "dependencies": {
+    "emitter-component": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "bus": "index.js"
+    }
+  }
+}
