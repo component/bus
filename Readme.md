@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-$ npm install bus-component
+$ npm install bus
 ```
 
 ## API

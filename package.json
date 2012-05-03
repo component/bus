@@ -1,5 +1,5 @@
 {
-  "name": "bus-component",
+  "name": "bus",
   "description": "Application-wide event bus",
   "version": "0.0.1",
   "dependencies": {
