@@ -3,11 +3,7 @@
   "description": "Application-wide event bus",
   "version": "0.0.2",
   "dependencies": {
-    "emitter-component": "*"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "component-emitter": "*"
   },
   "component": {
     "scripts": {
