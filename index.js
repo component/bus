@@ -1,5 +1,11 @@
 
 /**
+ * Wrapper for require to enable simultaneous node/component use.
+ */
+
+require = require('require-component')(require);
+
+/**
  * Module dependencies.
  */
 

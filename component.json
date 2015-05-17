@@ -3,6 +3,7 @@
   "description": "Application-wide event bus",
   "version": "0.0.3",
   "dependencies": {
+    "camshaft/require-component": "*",
     "component/emitter": "*"
   },
   "scripts": [
