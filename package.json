@@ -3,8 +3,7 @@
   "description": "Application-wide event bus",
   "version": "0.1.0",
   "dependencies": {
-    "component-emitter": "*",
-    "require-component": "*"
+    "component-emitter": "*"
   },
   "component": {
     "scripts": {
